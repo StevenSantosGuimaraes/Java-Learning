@@ -1,7 +1,7 @@
 package application;
 
-import entities.Account;
-import entities.SavingsAccount;
+import model.entities.Account;
+import model.entities.SavingsAccount;
 
 public class Program3 {
 

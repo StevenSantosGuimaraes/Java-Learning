@@ -2,13 +2,14 @@ package application;
 
 import java.util.Locale;
 import java.util.Scanner;
+
 import java.util.List;
 import java.util.ArrayList;
 
-import entities.enums.Color;
-import entities.Circle;
-import entities.Rectangle;
-import entities.Shape;
+import model.entities.Rectangle;
+import model.entities.Circle;
+import model.entities.Shape;
+import model.enums.Color;
 
 public class Program4 {
     
